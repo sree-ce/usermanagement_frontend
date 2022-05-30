@@ -1,0 +1,27 @@
+.signupform {
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid rgb(184, 174, 174); */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 20px;
+}
+
+.main-container {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    width: 100%;
+    background-color: rgba(4, 53, 4, 0.761) !important;
+    border: 1px solid rgb(4, 53, 4);
+    margin-bottom: 20px;
+    color: white;
+    height: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
